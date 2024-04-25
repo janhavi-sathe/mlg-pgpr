@@ -1,0 +1,7 @@
+[submodule "OpenKE-pt"]
+	path = OpenKE-pt
+	url = https://github.com/thunlp/OpenKE.git
+	branch = OpenKE-PyTorch
+[submodule "PGPR"]
+	path = PGPR
+	url = https://github.com/orcax/PGPR.git
